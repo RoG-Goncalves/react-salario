@@ -1,0 +1,17 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 5px;
+}
+.discountINSS {
+  color: blue;
+}
+.border {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+}
