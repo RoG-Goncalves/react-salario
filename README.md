@@ -1,3 +1,8 @@
+# Salary
+
+An app for calculating the taxes discounted from salary income and the net salary;
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
